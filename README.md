@@ -1,4 +1,4 @@
-# Chiranib Dash - Professional Portfolio
+# Chiranjib Dash - Professional Portfolio
 
 A modern, minimalistic portfolio website showcasing Java backend development expertise, cloud architecture, and 4+ years of professional experience.
 
@@ -135,7 +135,7 @@ portfolio/
 
 ### Update Personal Information
 
-1. **Name and Title**: Update in all HTML files (replace "Chiranib Dash")
+1. **Name and Title**: Update in all HTML files (replace "Chiranjib Dash")
 2. **Contact Information**: Update email, LinkedIn, and GitHub URLs in `contact.html`
 3. **Projects**: Add/modify projects in `projects.html`
 4. **Experience Details**: Update content in `about.html`

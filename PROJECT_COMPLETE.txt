@@ -184,7 +184,7 @@ For Customization:
 📋 CUSTOMIZATION CHECKLIST
 
 BEFORE PUBLISHING - ESSENTIAL:
-☐ Replace "Chiranib Dash" with your name (all files)
+☐ Replace "Chiranjib Dash" with your name (all files)
 ☐ Update email address
 ☐ Update LinkedIn URL
 ☐ Update GitHub username

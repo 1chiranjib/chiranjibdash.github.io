@@ -66,7 +66,7 @@ STEP 1: Read START_HERE.txt (2 minutes)
 
 STEP 2: Update Your Information (15-30 minutes)
    ├─ Edit HTML files
-   ├─ Replace "Chiranib Dash" with YOUR NAME
+   ├─ Replace "Chiranjib Dash" with YOUR NAME
    ├─ Update email, LinkedIn, GitHub
    ├─ Add your 6 projects
    └─ Save files
