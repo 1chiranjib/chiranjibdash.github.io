@@ -264,7 +264,7 @@ if(localStorage.getItem('theme') === 'light') {
 ### 1. Create manifest.json
 ```json
 {
-  "name": "Chiranib Dash Portfolio",
+  "name": "Chiranjib Dash Portfolio",
   "short_name": "CD Portfolio",
   "description": "Professional Java Backend Developer Portfolio",
   "start_url": "/index.html",

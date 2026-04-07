@@ -80,7 +80,7 @@ Your professional portfolio is now **fully functional** and ready for deployment
    - IDE and build directories
 
 2. **package.json** - Project metadata
-   - Name: chiranib-dash-portfolio
+   - Name: chiranjib-dash-portfolio
    - Version: 1.0.0
    - Scripts for local development
    - Keywords for discoverability
@@ -227,7 +227,7 @@ portfolio/
 ### Before Publishing
 
 1. **Personalize Content**
-   - [ ] Replace "Chiranib Dash" with your name
+   - [ ] Replace "Chiranjib Dash" with your name
    - [ ] Update email address
    - [ ] Update LinkedIn URL
    - [ ] Update GitHub username
