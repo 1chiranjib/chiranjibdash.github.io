@@ -2,9 +2,9 @@
   "name": "chiranjib-dash-portfolio",
   "version": "1.0.0",
   "description": "Professional portfolio showcasing 4+ years of Java backend development expertise in AWS, microservices, event-driven architectures, MySQL, Datadog monitoring, and TypeScript library development.",
-  "main": "src/index.html",
+  "main": "index.html",
   "scripts": {
-    "start": "live-server src",
+    "start": "live-server .",
     "serve": "python -m http.server 8000"
   },
   "keywords": [

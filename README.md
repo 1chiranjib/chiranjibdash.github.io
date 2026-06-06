@@ -85,31 +85,30 @@ The portfolio is fully responsive across all devices:
    ```
 
 2. **Open in browser:**
-   - Simply open `src/index.html` in your web browser
+   - Simply open `index.html` in your web browser
    - Or use a local server:
      ```bash
      python -m http.server 8000
-     # Navigate to http://localhost:8000/src/
+     # Navigate to http://localhost:8000/
      ```
 
 ### File Structure
 
 ```
 portfolio/
-├── src/
-│   ├── index.html          # Home page
-│   ├── about.html          # About page
-│   ├── projects.html       # Projects showcase
-│   ├── contact.html        # Contact page
-│   ├── css/
-│   │   ├── style.css       # Main styles
-│   │   └── responsive.css  # Mobile-first responsive styles
-│   ├── js/
-│   │   └── main.js         # JavaScript functionality
-│   └── assets/
-│       └── fonts/          # Custom fonts (if any)
-├── package.json            # Project metadata
-└── README.md              # This file
+├── index.html          # Home page
+├── about.html          # About page
+├── projects.html       # Projects showcase
+├── contact.html        # Contact page
+├── css/
+│   ├── style.css       # Main styles
+│   └── responsive.css  # Mobile-first responsive styles
+├── js/
+│   └── main.js         # JavaScript functionality
+├── assets/
+│   └── fonts/          # Custom fonts (if any)
+├── package.json        # Project metadata
+└── README.md           # This file
 ```
 
 ## 📦 Deployment
@@ -122,7 +121,7 @@ portfolio/
    - Set source to `main` branch and root directory
 
 2. **Access your portfolio:**
-   - Your portfolio will be available at: `https://yourusername.github.io/portfolio/src/`
+   - Your portfolio will be available at: `https://yourusername.github.io/portfolio/`
 
 ### Other Hosting Options
 

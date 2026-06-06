@@ -36,17 +36,35 @@
    - Click Save
 
 5. **Access Your Portfolio**
-   - URL: `https://yourusername.github.io/portfolio/src/`
+   - URL: `https://yourusername.github.io/portfolio/`
    - Or add custom domain in Settings → Pages
+
+---
+
+## Cloudflare Pages (Recommended)
+
+This project is a static HTML/CSS/JavaScript site and is best deployed with Cloudflare Pages rather than a Cloudflare Worker.
+
+1. Go to https://dash.cloudflare.com/pages
+2. Create a new Pages project and connect your GitHub repository
+3. Set the production branch to `main`
+4. Set the root directory to `/`
+5. Leave the build command blank and the output directory empty if you are deploying the raw files directly
+6. Deploy the project
+
+**Why this is better:**
+- Cloudflare Pages serves static sites directly from the edge
+- It avoids Worker bundle size limits like the 25 MB upload error
+- No extra worker script is required for this plain static site
 
 ---
 
 ## Navigation
 
-- **Home**: `src/index.html`
-- **About**: `src/about.html`
-- **Projects**: `src/projects.html`
-- **Contact**: `src/contact.html`
+- **Home**: `index.html`
+- **About**: `about.html`
+- **Projects**: `projects.html`
+- **Contact**: `contact.html`
 
 All links are working! ✅
 
